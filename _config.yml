@@ -1,2 +1,3 @@
 name: Shaobin Zhao
 markdown: Kramdown
+permalink: /blog/:year/:month/:day/:title
